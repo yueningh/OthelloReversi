@@ -1,3 +1,5 @@
+<img src="https://github.com/yueningh/OthelloReversi/blob/master/othello1.jpg" height =300 width="700" />
+
 # OthelloReversi
 **Table of Contents**
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
